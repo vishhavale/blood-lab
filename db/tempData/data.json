@@ -1,0 +1,2309 @@
+[{
+		"id": 29,
+		"service_name": "Pan Card",
+		"price": "107.0",
+		"description": "PAN (Permanent Account Number) is an identification number assigned to all taxpayers in India. PAN is an electronic system through which, all tax-related information for a person/company is recorded against a single PAN number. This acts as the primary key for the storage of information and is shared across the country. Hence no two tax-paying entities can have the same PAN.",
+		"service_type": 2,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 30,
+		"service_name": "Birth Certificate",
+		"price": "200.0",
+		"description": "A birth certificate is a vital record that documents the birth of a person. The term birth certificate can refer to either the original document certifying the circumstances of the birth or to a certified copy of or representation of the ensuing registration of that birth. Depending on the jurisdiction, a record of birth might or might not contain verification of the event by such as a midwife or doctor.",
+		"service_type": 2,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 31,
+		"service_name": "Death Certificate",
+		"price": "0.0",
+		"description": "",
+		"service_type": 2,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 32,
+		"service_name": "Learners License",
+		"price": "0.0",
+		"description": "",
+		"service_type": 2,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 33,
+		"service_name": "Driving License",
+		"price": "1500.0",
+		"description": " Driving licence is an official document issued by the Government of India to drive your car, truck, bus, bike, et all. It authorizes or clearly dictates that the owner knows how to drive the vehicle and has undergone tests that abide by the traffic rules and regulations.",
+		"service_type": 2,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 34,
+		"service_name": "Voter ID Application",
+		"price": "50.0",
+		"description": "The primary purpose of this card is to improve the accuracy of the electoral roll and to help prevent cases of electoral fraud. Additionally, it also serves as an identification proof when individual’s cast their vote. This card is commonly known by other names such as an election card, voter’s card, Voter ID, etc.",
+		"service_type": 2,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 35,
+		"service_name": "Police Clearance Certificate",
+		"price": "200.0",
+		"description": "Police Clearance Certificate (PCC) is issued to Indian Passport holders in case they have applied for Residential Status, Employment or Long term visa or for immigration. PCC cannot be issued for persons going abroad on Tourist Visa.",
+		"service_type": 2,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 36,
+		"service_name": "Character Certificate",
+		"price": "200.0",
+		"description": "Character certificate is a legal document issued by a government authority/ police, institution or an individual station that the individual does not have a criminal record or court cases in their name or a bad history in their previous institution.",
+		"service_type": 2,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 37,
+		"service_name": "Aayushman Bharat",
+		"price": "0.0",
+		"description": " Direct link",
+		"service_type": 2,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 38,
+		"service_name": "Unique Disablity ID",
+		"price": "0.0",
+		"description": " Direct link",
+		"service_type": 2,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 39,
+		"service_name": "E Shram",
+		"price": "0.0",
+		"description": "Direct link",
+		"service_type": 2,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 40,
+		"service_name": "Jeevan Parman",
+		"price": "0.0",
+		"description": "Direct link",
+		"service_type": 2,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 41,
+		"service_name": "Mnrega Job Card Download",
+		"price": "0.0",
+		"description": "Direct link",
+		"service_type": 2,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 42,
+		"service_name": "New Passport Application",
+		"price": "0.0",
+		"description": "Direct link",
+		"service_type": 2,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 43,
+		"service_name": "Renewal of Passport",
+		"price": "0.0",
+		"description": "Direct link",
+		"service_type": 2,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 44,
+		"service_name": "PM Kisan Samman Nidhi Yojna",
+		"price": "0.0",
+		"description": "Direct link",
+		"service_type": 2,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 45,
+		"service_name": "PM Kisan Maandhan Yojna",
+		"price": "0.0",
+		"description": "Direct link",
+		"service_type": 2,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 46,
+		"service_name": "Pradhan Mantri BimaYojna",
+		"price": "0.0",
+		"description": "Direct link",
+		"service_type": 2,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 47,
+		"service_name": "Pan-Aadhaar Linking",
+		"price": "0.0",
+		"description": "Direct link",
+		"service_type": 2,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 48,
+		"service_name": "E-stamp Paper",
+		"price": "0.0",
+		"description": "Direct link",
+		"service_type": 2,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 54,
+		"service_name": "Change Of Name Affidavit",
+		"price": "50.0",
+		"description": "Changing original birth name is very common and a wide glimpse in India. Whatever the reason be, the procedure under the law is the same. The only probable condition for eligibility to change name is that the applicant must be 18 years and above to change their own name.",
+		"service_type": 1,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 55,
+		"service_name": "Name Change in Gazette",
+		"price": "0.0",
+		"description": "",
+		"service_type": 1,
+		"is_delete": 1,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 56,
+		"service_name": "Change Of Name After Marriage Affidavit",
+		"price": "50.0",
+		"description": "It is an age old tradition, a custom for the Indian women to change their maiden or surname or both after marriage representing a new identity and signifying the beginning of a new life. Women generally adopt the family name of her husband by opting chnage of name. In some communities, for example, the Sindhis, the husband renames (first and last) his wife as a part of proceedings during marriage.",
+		"service_type": 1,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 57,
+		"service_name": "Change Of Signature Affidavit",
+		"price": "50.0",
+		"description": "A signature will always be unique. Though a signature cannot match cent percent always, we must strive to ensure uniformity to avoid any unforeseen commotion. Let’s say your cheque at the bank gets rejected due to signature mismatch or a local authority rejected your sale deed owing to inconsistent signatures in the paperwork. What would you do in such a situation? This is when an affidavit for change of signature comes to your rescue.",
+		"service_type": 1,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 58,
+		"service_name": "Address Proof Affidavit",
+		"price": "50.0",
+		"description": "Affidavits are documents used to declare facts in writing and can either be used as support documents or as evidence in Courts. An affidavit for proof of address or simply affidavit of residence is a document is that is used to legally prove a person’s address.",
+		"service_type": 1,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 59,
+		"service_name": "Proof Of Date Of birth Affidavit",
+		"price": "50.0",
+		"description": "An affidavit for date of birth or a date of birth affidavit is used when a deponent (the person in whose name the affidavit is) wishes to declare his date of birth in case he lacks a birth certificate.",
+		"service_type": 1,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 60,
+		"service_name": "One And The Same Person Affidavit",
+		"price": "50.0",
+		"description": "Although uncommon, there are some instances when papers issued by Govt. misspell our names or other details. It may seem like a common mistake but its repercussions are many. If your name is spelled inconsistently in different documents, some officials may reject it. Although it is possible to get it corrected, it may be simpler to just make an affidavit saying that you are indeed the person being mentioned in a certain document. That is what the affidavit for one and the same person is for.",
+		"service_type": 1,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 61,
+		"service_name": "Affidavit For Change Of Name Of Minor",
+		"price": "50.0",
+		"description": "Nowadays, one roadblock many parents run into is choosing good names for their children. While some parents do an extensive research and brainstorming before selecting names for their children, some parents tend to change the names at a later stage.",
+		"service_type": 1,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 62,
+		"service_name": "Affidavit For Proof Of Income",
+		"price": "50.0",
+		"description": "Affidavits are sworn written statements that are chiefly used as support documents for applications or as evidence in courts. The individual who creates the affidavit is referred to as the deponent and he must swear that the contents in the affidavit are true to the best of his knowledge before an official who has the power to witness an oath",
+		"service_type": 1,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 63,
+		"service_name": "Affidavit For Claim Settlement In Bank",
+		"price": "50.0",
+		"description": "Following the death of an individual, the spouse/ family members typically inherit all the money left behind by the deceased. The spouse/ family member in question will be expected to file what is called as an Affidavit for Claim Settlement to the required bank.",
+		"service_type": 1,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 64,
+		"service_name": "Marriage Affidavits",
+		"price": "50.0",
+		"description": "In India, it is compulsory to register one’s marriage to make it legally valid. Registration of marriage provides a marriage certificate to the individuals as a proof of their marriage. A marriage can be between two Hindus or between a male and female belonging to any religion, caste or creed. It can also be between an Indian and a Foreigner.",
+		"service_type": 1,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 65,
+		"service_name": "Joint Affidavit for Registration of Marriage",
+		"price": "50.0",
+		"description": "In India, a marriage must be registered to make it a legally valid entity. The process of marriage registration ends with the bride and groom being provided with a marriage certificate.",
+		"service_type": 1,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 66,
+		"service_name": "Affidavit For Duplicate Licence",
+		"price": "50.0",
+		"description": "Driving licence is an official document issued by State Transport Authority on basis of your driving licence application followed by passing of the mandatory tests that permit an individual to drive and operate a motor vehicle of a specific type(s).",
+		"service_type": 1,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 67,
+		"service_name": "Affidavit For Declaration of No-criminal Record",
+		"price": "50.0",
+		"description": "As the name suggests, the Affidavit for No Criminal Offense is made to affirm that the person making it (deponent) has no criminal cases lodged against him/her in the past.",
+		"service_type": 1,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 68,
+		"service_name": "Domicile Affidavit",
+		"price": "50.0",
+		"description": "If you are asked to provide a proof to show that you have been a continuous resident of a particular State or a Union Territory for a specific period for some reason, then you will need your Domicile Certificate. To obtain the certificate, you will have to create an Affidavit for Domicile Certificate.",
+		"service_type": 1,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 69,
+		"service_name": "First Child Affidavit",
+		"price": "50.0",
+		"description": "Often required during school and nursery admissions, the First Child Affidavit is a document that is required to be submitted by parents to a school/nursery in which they seek admission for their ward. This is a fairly new process and that is why most young parents are unaware about how to get the said affidavit drafted. Thankfully, were here to help you with that.",
+		"service_type": 1,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 70,
+		"service_name": "Affidavit For Education Loan",
+		"price": "50.0",
+		"description": "Education is a vital matter in today’s society. With many students pursuing courses in major universities in India and abroad, banks have come up with attractive student loans to help the not so well off students pursue grander ambitions.",
+		"service_type": 1,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 71,
+		"service_name": "Affidavit For Gap In Education",
+		"price": "50.0",
+		"description": "Lorem",
+		"service_type": 1,
+		"is_delete": 1,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 72,
+		"service_name": "Affidavit For Anti Ragging",
+		"price": "50.0",
+		"description": "In India, Ragging is defined as a form of damaging interaction between individuals, especially students, with the intent to insult/intimidate. It comes very close to bullying or hazing and often involves humiliation and abuse which could leave a person’s dignity wounded. This is precisely why the Indian law vehemently opposes this vile act with strong anti-ragging laws.",
+		"service_type": 1,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 73,
+		"service_name": "Common College Affidavits",
+		"price": "50.0",
+		"description": "An affidavit is a sworn, self declaring statements which are declared before an authority/ official with the power to witness an oath. The person who creates the affidavit is called the deponent and the affidavit swears facts that are true to the best knowledge of the deponent. These documents can be used as evidence in courts",
+		"service_type": 1,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 74,
+		"service_name": "Affidavit For Duplicate Marklist",
+		"price": "50.0",
+		"description": "Many of you would have had the traumatic experience of losing your valuable degree certificates or marklists of any University or College. You may be in urgent need of the same to appear for an interview or apply for any higher studies etc. You can apply to the particular University for issuing a duplicate certificate or marklist. This involves some procedure.",
+		"service_type": 1,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 75,
+		"service_name": "LPG Affidavit Annexure A",
+		"price": "50.0",
+		"description": "Annexure A is an affidavit that should be made by a person who is applying for a new LPG connection for one’s household use. It is a declaration of one’s address, ration card details, age proof, etc. It also declares that the applicant does not have any other LPG connection.",
+		"service_type": 1,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 76,
+		"service_name": "Hp Gas Affidavit",
+		"price": "50.0",
+		"description": "Annexure A is an affidavit that should be made by a person who is applying for a new LPG connection for one’s household use. It is a declaration of one’s address, ration card details, age proof, etc. It also declares that the applicant does not have any other LPG connection.",
+		"service_type": 1,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 77,
+		"service_name": "Indane Gas Affidavit",
+		"price": "50.0",
+		"description": "Annexure A is an affidavit that should be made by a person who is applying for a new LPG connection for one’s household use. It is a declaration of one’s address, ration card details, age proof, etc. It also declares that the applicant does not have any other LPG connection.",
+		"service_type": 1,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 78,
+		"service_name": "Bharat Gas Affidavit",
+		"price": "50.0",
+		"description": "Annexure A is an affidavit that should be made by a person who is applying for a new LPG connection for one’s household use. It is a declaration of one’s address, ration card details, age proof, etc. It also declares that the applicant does not have any other LPG connection.",
+		"service_type": 1,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 79,
+		"service_name": "Gap In Employment",
+		"price": "50.0",
+		"description": "Lorem",
+		"service_type": 1,
+		"is_delete": 1,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 80,
+		"service_name": "Pf Cum Indemnity Bond",
+		"price": "50.0",
+		"description": "Provident fund is the right of every employee in our country. Provident fund is sourced by the employer and is often deducted from the salary of the employee. When an employee leaves a company to join another company, ",
+		"service_type": 1,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 81,
+		"service_name": "Custom Affidavit",
+		"price": "50.0",
+		"description": " Delete",
+		"service_type": 1,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 208,
+		"service_name": "GST Registration",
+		"price": "1000.0",
+		"description": "Completely managed GST registration service until obtaining GSTIN with Expert Support and 1 year LEDGERS accounting software. Inclusive of all government fee and taxes.",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 209,
+		"service_name": "GST Filing ",
+		"price": "9000.0",
+		"description": "1 Year Accounting & GST Filing for business with less than Rs.10 lakhs turnover.",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 210,
+		"service_name": "GST Registration Cancellation",
+		"price": "3000.0",
+		"description": "Completely managed GST registration cancellation service with Expert Support. Applicable for entities with no activities.",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 211,
+		"service_name": "GST Registration for Foreigners",
+		"price": "20000.0",
+		"description": "GST registration as a non-resident taxable person with 1 year GST return filing, authorised person in India, virtual office and LEDGERS accounting software.",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 212,
+		"service_name": "GST LUT Filing",
+		"price": "5000.0",
+		"description": "Filing of GST LUT Form for Exporters.",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 213,
+		"service_name": "Flipkart GST",
+		"price": "13000.0",
+		"description": "Assisted GST registration for your business with LEDGERS GST software.",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 214,
+		"service_name": "Income Tax Return - ITR-1",
+		"price": "600.0",
+		"description": "Income tax return filing for an individual with salary income of less than Rs.5 lakhs.",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 215,
+		"service_name": "Income Tax Return - ITR-2",
+		"price": "1500.0",
+		"description": "Income tax return filing for persons having DIN or owing private limited company shares.",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 216,
+		"service_name": "Income Tax Return - ITR-3",
+		"price": "3000.0",
+		"description": "Income tax return filing for a taxpayer with taxable income of less than Rs.25 lakhs.",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 217,
+		"service_name": "Income Tax Return - ITR-4",
+		"price": "3200.0",
+		"description": "Income tax return filing for a taxpayer with taxable income of less than Rs.10 lakhs.",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 218,
+		"service_name": "Income Tax Return - ITR-5",
+		"price": "9899.0",
+		"description": "Income tax return filing for a taxpayer with taxable income of less than Rs.10 lakhs.",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 219,
+		"service_name": "Income Tax Return - ITR-6",
+		"price": "9899.0",
+		"description": "Income tax return filing for Companies whose annual turnover is upto Rs.10 lakhs.",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 220,
+		"service_name": "Income Tax Return - ITR-7",
+		"price": "9899.0",
+		"description": "Income tax return filing for a taxpayer with taxable income of less than Rs.10 lakhs.",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 221,
+		"service_name": "Private Limited Company",
+		"price": "8999.0",
+		"description": "Company registration with 2 DSC, 2 DIN, MOA , AOA, all related government fee & stamp duty*, PAN, TAN, ESI & PF registration, bank account opening, Commencement of Business and LEDGERS accounting software. Inclusive of all government fees and taxes",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 222,
+		"service_name": "Limited Liability Partnership",
+		"price": "8999.0",
+		"description": "LLP deed drafting, LLP registration, digital signature, 2 DIN, PAN, TAN, GST registration, bank account and LEDGERS accounting software. Inclusive of all government fees and taxes. Stamp paper and Notary will be in the clients scope.",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 223,
+		"service_name": "Partnership",
+		"price": "6999.0",
+		"description": "Partnership deed drafting along with GST registration, business current account and LEDGERS accounting software. Inclusive of all government fee and taxes.",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 224,
+		"service_name": "Proprietorship",
+		"price": "3000.0",
+		"description": "GST Registration, MSME Registration and Bank Current Account.",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 20.0,
+		"comm_type": 2
+	}, {
+		"id": 225,
+		"service_name": "Public limited company",
+		"price": "29000.0",
+		"description": "Public limited company registration with 8 DSC, 3 DIN, 1 RUN Name Approval, 10 lakh authorized capital, incorporation fee, stamp duty*, MOA, AOA, incorporation certificate, PAN, TAN, GST registration, business bank account opening, hard-copy share certificates, 50+ document formats, incorporation kit and LEDGERS accounting software for providing estimates, invoices, tracking purchases, filing GST returns and generating GST eWay bill. Inclusive of government fees and taxes.",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 226,
+		"service_name": "One person company",
+		"price": "8999.0",
+		"description": "One person company registration with 1 DSC, 1 DIN, MOA , AOA, all related government fee & stamp duty*, PAN, TAN, ESI & PF registration, bank account opening, Commencement of Business and LEDGERS accounting software. Inclusive of all government fees and taxes.",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 227,
+		"service_name": "Indian Subsidiary",
+		"price": "29899.0",
+		"description": "Incorporation of company as Indian subsidiary of foreign company including 3 DSC, 2 DIN, 1 RUN Name approval, incorporation fee, MOA, AOA, incorporation certificate, PAN, TAN, GST registration, hard-copy share certificates, 50+ document formats, CITI Bank Current account, company kit and LEDGERS accounting software for providing estimates, invoices, tracking purchases, filing GST returns and generating GST eWay bill. Inclusive of government fee and GST.",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 228,
+		"service_name": "Nidhi Company",
+		"price": "34899.0",
+		"description": "Nidhi Company registration, 8 DSC, 3 DIN 1 RUN Name Approval, MOA, AOA incorporation certificate, PAN, TAN, 50+ document formats, business bank account opening, company kit along with LEDGERS accounting software for providing estimates, invoices, tracking purchases, filing GST returns and generating GST eWay bill. Inclusive of government fees and taxes",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 229,
+		"service_name": "Section 8",
+		"price": "16799.0",
+		"description": "Company registration with DSC, all related government fee & stamp duty*, PAN, TAN, ESI & PF registration, bank account, accounting software and commencement certificate. Inclusive of all government fees and taxes",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 230,
+		"service_name": "Producer Company",
+		"price": "45899.0",
+		"description": "Producer company registration with 10 DSC, 10 DIN, name approval, incorporation fee, PAN, TAN, share certificates, company kit and LEDGERS accounting software. Inclusive of government fee and GST.",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 231,
+		"service_name": "Trademark Registration",
+		"price": "7000.0",
+		"description": "Trademark filing under one class for proprietorship and small enterprises. Inclusive of government fee and taxes.",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 232,
+		"service_name": "Trademark objection",
+		"price": "3000.0",
+		"description": "Drafting and filing of reply for objection raised by Trademark Examiner. Exclusive pricing for trademark applications filed by IndiaFilings. Inclusive of filing fee and taxes.",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 233,
+		"service_name": "Trademark Opposition",
+		"price": "8000.0",
+		"description": "Drafting and filing of opposition notice. Exclusive pricing for trademark applications filed by IndiaFilings. Inclusive of government fee and service tax.",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 234,
+		"service_name": "Trademark Renewal",
+		"price": "12899.0",
+		"description": "Drafting and filing of trademark renewal application. For individuals, proprietorships, registered SMEs and registered Startups. Inclusive of government fee and service tax.",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 235,
+		"service_name": "Copyright Registration",
+		"price": "12999.0",
+		"description": "Copyright registration for logos, books, periodicals and magazines.",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 236,
+		"service_name": "Design Registration",
+		"price": "8899.0",
+		"description": "Design registration for one article, wherein the applicant is a proprietor or individual. Inclusive of government fee and service tax.",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 237,
+		"service_name": "Provisional Patent",
+		"price": "35000.0",
+		"description": "Provisional application of device patents with the Indian Patent Office. Invention abstract and provisional specifications to be provided by the client. Inclusive of government fees and service tax.",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 238,
+		"service_name": "Patent Registration",
+		"price": "69899.0",
+		"description": "Complete specifications registration of device patents (non- provisional) with the Indian Patent Office. Complete drawings/ illustrations, abstract and claims to the provided by the client which will be vetted by IndiaFilings expert. Inclusive of government fees and service tax.",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 239,
+		"service_name": "Annual Compliance- Proprietorship",
+		"price": "5999.0",
+		"description": "Income tax return filing, LEDGERS accounting software and compliance management for a proprietorship firm with a turnover of less than Rs.10 lakhs per annum.",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 240,
+		"service_name": "Annual compliance- Partnership",
+		"price": "9999.0",
+		"description": "Income tax return filing, LEDGERS accounting software and compliance management for a partnership firm with a turnover of less than Rs.10 lakhs per annum.",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 241,
+		"service_name": "Annual compliance- PLC",
+		"price": "20899.0",
+		"description": "Bookkeeping, financial statement preparation, annual report / director’s report / board resolution preparation, MCA annual return filing, income tax return filing, auditor appointment, commencement of business filing, 1 year dedicated compliance manager support and LEDGERS accounting software for a company with a turnover of less than Rs.25 lakhs per annum.",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 242,
+		"service_name": "Annual compliance- LLP",
+		"price": "20899.0",
+		"description": "Annual return filing, income tax return filing, LEDGERS accounting software and compliance management for a LLP with a turnover of less than Rs.10 lakhs per annum.",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 243,
+		"service_name": "PF Registration",
+		"price": "8499.0",
+		"description": "PF registration for businesses having less than 25 employees",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 244,
+		"service_name": "USA company Registration",
+		"price": "49899.0",
+		"description": "Includes LLC or C-Corporation Incorporation along with 1 Year Registered Agent.",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 245,
+		"service_name": "Udyam Registration",
+		"price": "988.0",
+		"description": "UDYAM registration and LEDGERS Accounting Software for providing estimates, invoices, tracking purchases, filing GST returns and generating GST eWay bill.",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 246,
+		"service_name": "Importer Exporter Code",
+		"price": "2999.0",
+		"description": "Import Export code registration with LEDGERS accounting software.",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 247,
+		"service_name": "Startup India Certificate",
+		"price": "9899.0",
+		"description": "Startup India Recognition under which eligible companies can get recognised as Startups by DPIIT, in order to access a host of tax benefits, easier compliance, IPR fast-tracking & more.",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 248,
+		"service_name": "Startup India - 80IAC",
+		"price": "30899.0",
+		"description": "Startup India Recognition under which eligible companies can get recognised as Startups by DPIIT, in order to access a host of tax benefits, easier compliance, IPR fast-tracking & more.",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 249,
+		"service_name": "FSSAI Registration",
+		"price": "1599.0",
+		"description": "FSSAI registration application preparation and filing for small food businesses,",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 250,
+		"service_name": "FSSAI State license",
+		"price": "6899.0",
+		"description": "FSSAI State License application filing for restaurants, hotels, food transporters, manufactures, distributors and retailers.",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 251,
+		"service_name": "FSSAI Central license",
+		"price": "10899.0",
+		"description": "FSSAI Central License application filing for 5 star hotels, large food transporters, manufacturers, distributors and retailers.",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 252,
+		"service_name": "Professional Tax Registration",
+		"price": "12999.0",
+		"description": "Professional tax registration for employers having less than 20 employees.",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 253,
+		"service_name": "TDS Return Filings",
+		"price": "5200.0",
+		"description": "TDS Return Filing for 1 Year",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 254,
+		"service_name": "Form-16",
+		"price": "200.0",
+		"description": "For businesses having 1 - 25 employees. Includes TDS Filing for Q4 with Annexure II, Form 16 issuance and ITR-1 filing for employees.",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 255,
+		"service_name": "Payroll Management",
+		"price": "3000.0",
+		"description": "Payroll management for a business with upto 10 employees. Includes 1 dedicated HR Manager, ConqHR HR Suite, attendance system, leave management, employee portal, employee onboarding, payslip generation, Form 16 issuance and PF/ESI compliance.",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 256,
+		"service_name": "PF Return Filing",
+		"price": "2999.0",
+		"description": "PF return filing for upto 10 employees.",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 257,
+		"service_name": "ESI Registration",
+		"price": "7999.0",
+		"description": "ESI registration for businesses having less than 25 employees.",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 258,
+		"service_name": "Add Director",
+		"price": "6000.0",
+		"description": "Add a Director having DSC and DIN to the Board of Directors.",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 259,
+		"service_name": "Remove Director",
+		"price": "0.0",
+		"description": "",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 260,
+		"service_name": "Share Transfer",
+		"price": "6999.0",
+		"description": "Share transfer from one person to another person or one person to many or many to one person.",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 261,
+		"service_name": "MOA Amendment",
+		"price": "7899.0",
+		"description": "MOA amendment for a private limited company.",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 262,
+		"service_name": "AOA Amendment",
+		"price": "7899.0",
+		"description": "AOA Amendment",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 263,
+		"service_name": "Registered Office Change - Company",
+		"price": "4899.0",
+		"description": "Change of registered office within the same city.",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 264,
+		"service_name": "Authorized Capital Increase",
+		"price": "4899.0",
+		"description": "Increase in authorised capital of upto Rs.10 lakhs.",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 265,
+		"service_name": "Winding Up - Company",
+		"price": "15899.0",
+		"description": "Filing for Winding up of Company for which compliance is upto date.",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 266,
+		"service_name": "Winding Up - LLP",
+		"price": "15899.0",
+		"description": "Filing for Winding up of LLP for which compliance is upto date.",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 267,
+		"service_name": "12A Registration",
+		"price": "19899.0",
+		"description": "12A registration for a charitable organization having charitable income of less than Rs.25 lakhs.",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 268,
+		"service_name": "80g Registration",
+		"price": "19899.0",
+		"description": "80g registration for a charitable organization having charitable income of less than Rs.25 lakhs.",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 269,
+		"service_name": "Barcode Registration",
+		"price": "9899.0",
+		"description": "Barcode registration valid for 1 year 1-100 (Professional fee)",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 270,
+		"service_name": "Trade License",
+		"price": "12899.0",
+		"description": "Trade License Inclusive of all taxes",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 271,
+		"service_name": "RCMC",
+		"price": "19899.0",
+		"description": "RCMC Certification ",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 272,
+		"service_name": "Apeda",
+		"price": "19899.0",
+		"description": "Apeda Certification",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 273,
+		"service_name": "ISO Certificate",
+		"price": "9899.0",
+		"description": "ISO certification valid for 3 years",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 274,
+		"service_name": "ISO Audit",
+		"price": "15899.0",
+		"description": "ISO certification valid for 3 years",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 275,
+		"service_name": "TAN",
+		"price": "1899.0",
+		"description": "TAN for business",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 276,
+		"service_name": "ZED",
+		"price": "988.0",
+		"description": "Zed Certification ",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 277,
+		"service_name": "LEI CODE",
+		"price": "6899.0",
+		"description": "LEI Code Inclusive of all taxes",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 278,
+		"service_name": "FCGPR",
+		"price": "25899.0",
+		"description": "FCGPR filings ",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 279,
+		"service_name": "BIS",
+		"price": "289899.0",
+		"description": "BIS Certification ",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 280,
+		"service_name": "UAE Company",
+		"price": "1450000.0",
+		"description": "UAE Company registration",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 281,
+		"service_name": "Singapore Company",
+		"price": "300000.0",
+		"description": "Singapore Company registration",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 282,
+		"service_name": "Legal Documents",
+		"price": "9899.0",
+		"description": "Legal documents drafting",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 283,
+		"service_name": "Business Plan Preparation",
+		"price": "24899.0",
+		"description": "Business plan preparation",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 284,
+		"service_name": "Drug License Chennai",
+		"price": "15899.0",
+		"description": "Drug License in Chennai",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 285,
+		"service_name": "Fire License Chennai",
+		"price": "4899.0",
+		"description": "Fire License in Chennai",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 286,
+		"service_name": "CE Registration",
+		"price": "15899.0",
+		"description": "CE registration",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 287,
+		"service_name": "FDA",
+		"price": "15899.0",
+		"description": "FDA registration",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 288,
+		"service_name": "GMP Registration",
+		"price": "15899.0",
+		"description": "GMP certificate",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 289,
+		"service_name": "HALAL",
+		"price": "15899.0",
+		"description": "Halal certification",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 290,
+		"service_name": "HACCP",
+		"price": "19899.0",
+		"description": "HACCP certification",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 291,
+		"service_name": "UK Trademark ",
+		"price": "59899.0",
+		"description": "UK trademark filing under one class for Indian nationals and Indian enterprises. Prices are inclusive of Government Trademark Fee and local taxes.",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 292,
+		"service_name": "UAE Trademark",
+		"price": "600000.0",
+		"description": "UAE Trademark registration",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 293,
+		"service_name": "USA Trademark",
+		"price": "59899.0",
+		"description": "USA trademark filing under one class for Indian nationals and Indian enterprises. Prices are inclusive of Government Trademark Fee and local taxes.",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 294,
+		"service_name": "Indian Trademark for Foreigners",
+		"price": "24899.0",
+		"description": "Trademark filing under one class for foreign nationals and foreign enterprises with appointment of local Attorney and Stamp Duty. Prices are inclusive of Government Trademark Fee and local taxes.",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 295,
+		"service_name": "European Union Trademark",
+		"price": "149899.0",
+		"description": "European Union trademark filing under one class for Indian nationals and Indian enterprises. Prices are inclusive of Government Trademark Fee and local taxes.",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 296,
+		"service_name": "Expedite Trademark",
+		"price": "29899.0",
+		"description": "Expedited trademark filing under one class for individuals, inclusive of government fee and taxes.",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 297,
+		"service_name": "Trademark Infringement",
+		"price": "7899.0",
+		"description": "Drafting of trademark infringement notice and issuance by Lawyer through email and registered post.",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 298,
+		"service_name": "LLP agreement amendment.",
+		"price": "9899.0",
+		"description": "LLP agreement amendment.",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 299,
+		"service_name": "Name change- Company",
+		"price": "15899.0",
+		"description": "Name change for a private limited company, inclusive of name approval fee and GST.",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 300,
+		"service_name": "Name change- LLP",
+		"price": "7899.0",
+		"description": "Name change for a LLP, inclusive of name approval fee and GST.",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 301,
+		"service_name": "Company Strike Off",
+		"price": "99899.0",
+		"description": "Revival of private limited company that has been marked as Strike-off by the Ministry of Corporate Affairs.",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 302,
+		"service_name": "Director Disqualification",
+		"price": "99899.0",
+		"description": "Financial statements preparation, Annual return filing, income tax return filing and board resolutions for 3 years. Condonation of Delay filing to remove Director Disqualification. Includes all government fee, professional fee and taxes.",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 303,
+		"service_name": "Partnership renewal",
+		"price": "2899.0",
+		"description": "Partnership firm renewal with the Registrar of Firms.",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 304,
+		"service_name": "Patta- Chitta",
+		"price": "4899.0",
+		"description": "Obtain hard copy of patta and chitta from the concerned department",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 305,
+		"service_name": "RERA",
+		"price": "32899.0",
+		"description": "RERA Registration for Agents in Tamil Nadu.",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 306,
+		"service_name": "COB",
+		"price": "2899.0",
+		"description": "Commencement of business certificate for a company with 2 directors. Includes zero-balance ICICI Bank Current Account with MAB waiver.",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 307,
+		"service_name": "DPT-3",
+		"price": "1488.0",
+		"description": "Form DPT-3 filing for companies with no activity. Authorised or paid-up capital of upto Rs.1 lakh.",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 308,
+		"service_name": "INC-22A",
+		"price": "988.0",
+		"description": "Form INC-22A filing. Engagement purchased before 31st March 2019.",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 309,
+		"service_name": "DIN Surrender",
+		"price": "9899.0",
+		"description": "Surrender of DIN",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 310,
+		"service_name": "ADT-1",
+		"price": "1899.0",
+		"description": "Auditor appointment services include help with discovering, engaging and appointing of Auditor for newly incorporated Private Limited Company (Audit fee will be extra based on the nature and volume of transaction).",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 311,
+		"service_name": "ESI return Filings",
+		"price": "2899.0",
+		"description": "ESI return filing for employers having less than 30 employees",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 312,
+		"service_name": "DIN-EKYC",
+		"price": "1899.0",
+		"description": "DIN eKYC filing for one DIN. Inclusive of all government fee and taxes.",
+		"service_type": 3,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 333,
+		"service_name": "House Rental",
+		"price": "100.0",
+		"description": "Renting is a real estate transaction that most of us enter into at least once in our lifetimes. It is a fairly straightforward process, you ask someone if you can occupy their house, if they let you, you’ll prepare and sign agreements and you start living there, paying a fixed monthly fee.",
+		"service_type": 4,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 334,
+		"service_name": "Commercial Office Agreement",
+		"price": "100.0",
+		"description": "After you’ve picked the place you want to put up your office in, the next step would be to prepare a contract/lease for occupying the property. You should pay close attention to the terms and clauses that go into the contract. Let’s take a look at the things you need to know about commercial lease for office.",
+		"service_type": 4,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 335,
+		"service_name": "Commercial Shop Rental",
+		"price": "100.0",
+		"description": "Opening a store in that lovely part of the town is every retailer’s dream. Taking a place on lease has its own set of advantages. You can add structures/ display units and do certain modifications which a typical residential agreement would never allow in a million years.",
+		"service_type": 4,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 336,
+		"service_name": "Room Agreement",
+		"price": "100.0",
+		"description": "For most bachelors (and spinsters for that matter), moving to a different town is a common part of adult life. Most of them, while independent, may not be able to afford having to rent a whole home for their own. That’s where the provision to rent only a room or portions of a house already occupied by someone else seems like a blessing.",
+		"service_type": 4,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 337,
+		"service_name": "Car Parking",
+		"price": "100.0",
+		"description": "car owners are constantly scouting for safe space for securing their vehicles during off activity hours. This has led to a massive surge in demand for organised parking spaces. Paid parking, contracted parking are new concepts evolving in concrete jungles. Landlords & house owners are letting out parking space to tenants in exchange for a fixed sum. Professional parking service firms are renting lands and converting them into common space for exclusive carports.",
+		"service_type": 4,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 338,
+		"service_name": "Settlement Of Rental Agreement",
+		"price": "0.0",
+		"description": "delete",
+		"service_type": 4,
+		"is_delete": 1,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 339,
+		"service_name": "Commercial Lease",
+		"price": "0.0",
+		"description": "delete",
+		"service_type": 4,
+		"is_delete": 1,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 340,
+		"service_name": "Quick Rental",
+		"price": "0.0",
+		"description": "delete",
+		"service_type": 4,
+		"is_delete": 1,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 341,
+		"service_name": "Residential Lease",
+		"price": "0.0",
+		"description": "delete",
+		"service_type": 4,
+		"is_delete": 1,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 342,
+		"service_name": "Renting in a Mall",
+		"price": "0.0",
+		"description": "delete",
+		"service_type": 4,
+		"is_delete": 1,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 343,
+		"service_name": "Paying Guest Agreement",
+		"price": "0.0",
+		"description": "delete",
+		"service_type": 4,
+		"is_delete": 1,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 344,
+		"service_name": "Leave And Licence",
+		"price": "0.0",
+		"description": "delete",
+		"service_type": 4,
+		"is_delete": 1,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 345,
+		"service_name": "NOC From Landlord",
+		"price": "100.0",
+		"description": "No Objection Certificate (NOC) by a Landlord becomes necessary when a Tenant (usually for a company), who has taken a property on lease from the landlord, plans to use the premises or a part of it as a registered office.",
+		"service_type": 4,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 346,
+		"service_name": "Leave And License Agreement In Mumbai",
+		"price": "0.0",
+		"description": "delete",
+		"service_type": 4,
+		"is_delete": 1,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 347,
+		"service_name": "Non-Disclosure /Confidentiality Agreement",
+		"price": "0.0",
+		"description": "delete",
+		"service_type": 4,
+		"is_delete": 1,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 348,
+		"service_name": "Job Offer And Employment Contract",
+		"price": "0.0",
+		"description": "delete",
+		"service_type": 4,
+		"is_delete": 1,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 349,
+		"service_name": "Consultancy Agreement",
+		"price": "0.0",
+		"description": "delete",
+		"service_type": 4,
+		"is_delete": 1,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 350,
+		"service_name": "Commercial Rental Agreement",
+		"price": "0.0",
+		"description": "delete",
+		"service_type": 4,
+		"is_delete": 1,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 351,
+		"service_name": "Office Sharing Agreement",
+		"price": "0.0",
+		"description": "delete",
+		"service_type": 4,
+		"is_delete": 1,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 352,
+		"service_name": "Flat Rental Agreement",
+		"price": "100.0",
+		"description": "Apartments have come a long way from their original concept. We see more and more apartments being part of immaculate complexes that have more than convenient living spaces to offer. They offer amenities, manicured gardens and some even have mini shopping complexes within them. Now, who wouldn’t want that?",
+		"service_type": 4,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": ""
+	}, {
+		"id": 354,
+		"service_name": "LLP Compliance",
+		"price": "0.0",
+		"description": "",
+		"service_type": 1,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": 2
+	}, {
+		"id": 355,
+		"service_name": "Payroll",
+		"price": "0.0",
+		"description": "",
+		"service_type": 1,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": 2
+	}, {
+		"id": 356,
+		"service_name": "PFRegistration",
+		"price": "0.0",
+		"description": "",
+		"service_type": 1,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": 2
+	}, {
+		"id": 357,
+		"service_name": "Add Directors",
+		"price": "0.0",
+		"description": "",
+		"service_type": 1,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": 2
+	}, {
+		"id": 358,
+		"service_name": "Remove Directors",
+		"price": "0.0",
+		"description": "",
+		"service_type": 1,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": 2
+	}, {
+		"id": 359,
+		"service_name": "DIR-3 KYC",
+		"price": "0.0",
+		"description": "",
+		"service_type": 1,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": 2
+	}, {
+		"id": 360,
+		"service_name": "Registered Office Change",
+		"price": "0.0",
+		"description": "",
+		"service_type": 1,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": 2
+	}, {
+		"id": 361,
+		"service_name": "Increase Authorized Capital",
+		"price": "0.0",
+		"description": "",
+		"service_type": 1,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": 2
+	}, {
+		"id": 362,
+		"service_name": "Winding Up of Company",
+		"price": "0.0",
+		"description": "",
+		"service_type": 1,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": 2
+	}, {
+		"id": 363,
+		"service_name": "Winding Up of LLP",
+		"price": "0.0",
+		"description": "",
+		"service_type": 1,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": 2
+	}, {
+		"id": 364,
+		"service_name": "MSME Registration (Udhyam) ",
+		"price": "0.0",
+		"description": "",
+		"service_type": 1,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": 2
+	}, {
+		"id": 365,
+		"service_name": " FSSAI Registration ",
+		"price": "0.0",
+		"description": "",
+		"service_type": 1,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": 2
+	}, {
+		"id": 366,
+		"service_name": " FSSAI State License ",
+		"price": "0.0",
+		"description": "",
+		"service_type": 1,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": 2
+	}, {
+		"id": 367,
+		"service_name": " FSSAI Central License ",
+		"price": "0.0",
+		"description": "",
+		"service_type": 1,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": 2
+	}, {
+		"id": 368,
+		"service_name": " FSSAI License Renewal ",
+		"price": "0.0",
+		"description": "",
+		"service_type": 1,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": 2
+	}, {
+		"id": 369,
+		"service_name": " Shop Act (Gumasta) ",
+		"price": "0.0",
+		"description": "",
+		"service_type": 1,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": 2
+	}, {
+		"id": 370,
+		"service_name": " Drug License ",
+		"price": "0.0",
+		"description": "",
+		"service_type": 1,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": 2
+	}, {
+		"id": 371,
+		"service_name": " Trade License ",
+		"price": "0.0",
+		"description": "",
+		"service_type": 1,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": 2
+	}, {
+		"id": 372,
+		"service_name": " Start-Up India Registration ",
+		"price": "0.0",
+		"description": "",
+		"service_type": 1,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": 2
+	}, {
+		"id": 373,
+		"service_name": " Central Labour License ",
+		"price": "0.0",
+		"description": "",
+		"service_type": 1,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": 2
+	}, {
+		"id": 374,
+		"service_name": " Import Export Code (IEC) ",
+		"price": "0.0",
+		"description": "",
+		"service_type": 1,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": 2
+	}, {
+		"id": 375,
+		"service_name": " EPF Registration ",
+		"price": "0.0",
+		"description": "",
+		"service_type": 1,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": 2
+	}, {
+		"id": 376,
+		"service_name": " ESIC Registration ",
+		"price": "0.0",
+		"description": "",
+		"service_type": 1,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": 2
+	}, {
+		"id": 377,
+		"service_name": " Hallmark ",
+		"price": "0.0",
+		"description": "",
+		"service_type": 1,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": 2
+	}, {
+		"id": 378,
+		"service_name": " GeM Registration ",
+		"price": "0.0",
+		"description": "",
+		"service_type": 1,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": 2
+	}, {
+		"id": 379,
+		"service_name": " RCMC Application ",
+		"price": "0.0",
+		"description": "",
+		"service_type": 1,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": 2
+	}, {
+		"id": 380,
+		"service_name": " NSIC Registration ",
+		"price": "0.0",
+		"description": "",
+		"service_type": 1,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": 2
+	}, {
+		"id": 381,
+		"service_name": " APEDA Registration ",
+		"price": "0.0",
+		"description": "",
+		"service_type": 1,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": 2
+	}, {
+		"id": 382,
+		"service_name": "ITR-1 Return ",
+		"price": "0.0",
+		"description": "",
+		"service_type": 1,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": 2
+	}, {
+		"id": 383,
+		"service_name": "ITR-2 Return ",
+		"price": "0.0",
+		"description": "",
+		"service_type": 1,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": 2
+	}, {
+		"id": 384,
+		"service_name": "ITR-3 Return ",
+		"price": "0.0",
+		"description": "",
+		"service_type": 1,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": 2
+	}, {
+		"id": 385,
+		"service_name": "ITR-4 Return ",
+		"price": "0.0",
+		"description": "",
+		"service_type": 1,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": 2
+	}, {
+		"id": 386,
+		"service_name": "ITR-5 Return ",
+		"price": "0.0",
+		"description": "",
+		"service_type": 1,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": 2
+	}, {
+		"id": 387,
+		"service_name": "ITR-6 Return ",
+		"price": "0.0",
+		"description": "",
+		"service_type": 1,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": 2
+	}, {
+		"id": 388,
+		"service_name": "ITR-7 Return ",
+		"price": "0.0",
+		"description": "",
+		"service_type": 1,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": 2
+	}, {
+		"id": 389,
+		"service_name": "Form 16 ",
+		"price": "0.0",
+		"description": "",
+		"service_type": 1,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": 2
+	}, {
+		"id": 390,
+		"service_name": "Personal Tax Filing ",
+		"price": "0.0",
+		"description": "",
+		"service_type": 1,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": 2
+	}, {
+		"id": 391,
+		"service_name": "Business Tax Filing ",
+		"price": "0.0",
+		"description": "",
+		"service_type": 1,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": 2
+	}, {
+		"id": 392,
+		"service_name": "Tax Notice ",
+		"price": "0.0",
+		"description": "",
+		"service_type": 1,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": 2
+	}, {
+		"id": 393,
+		"service_name": "TDS Filing",
+		"price": "0.0",
+		"description": "",
+		"service_type": 1,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": 2
+	}, {
+		"id": 394,
+		"service_name": "GST Return Filing",
+		"price": "0.0",
+		"description": "",
+		"service_type": 1,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": 2
+	}, {
+		"id": 395,
+		"service_name": "GST Annual Return",
+		"price": "0.0",
+		"description": "",
+		"service_type": 1,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": 2
+	}, {
+		"id": 396,
+		"service_name": "GST Invoicing",
+		"price": "0.0",
+		"description": "",
+		"service_type": 1,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": 2
+	}, {
+		"id": 397,
+		"service_name": "GST eInvoicing",
+		"price": "0.0",
+		"description": "",
+		"service_type": 1,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": 2
+	}, {
+		"id": 398,
+		"service_name": "eWay Bill",
+		"price": "0.0",
+		"description": "",
+		"service_type": 1,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": 2
+	}, {
+		"id": 399,
+		"service_name": "Input Tax Credit",
+		"price": "0.0",
+		"description": "",
+		"service_type": 1,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": 2
+	}, {
+		"id": 400,
+		"service_name": "GST Software for Accountants",
+		"price": "0.0",
+		"description": "",
+		"service_type": 1,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": 2
+	}, {
+		"id": 401,
+		"service_name": "Startup India Registration",
+		"price": "0.0",
+		"description": "",
+		"service_type": 1,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": 2
+	}, {
+		"id": 402,
+		"service_name": "Indian Subsidiary Nidhi Company",
+		"price": "0.0",
+		"description": "",
+		"service_type": 1,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": 2
+	}, {
+		"id": 403,
+		"service_name": "Section 8 Company",
+		"price": "0.0",
+		"description": "",
+		"service_type": 1,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": 2
+	}, {
+		"id": 404,
+		"service_name": "Room",
+		"price": "0.0",
+		"description": "",
+		"service_type": 1,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": 2
+	}, {
+		"id": 405,
+		"service_name": "Agreement",
+		"price": "0.0",
+		"description": "",
+		"service_type": 1,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": 2
+	}, {
+		"id": 406,
+		"service_name": "Car",
+		"price": "0.0",
+		"description": "",
+		"service_type": 1,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": 2
+	}, {
+		"id": 407,
+		"service_name": "Parking",
+		"price": "0.0",
+		"description": "",
+		"service_type": 1,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": 2
+	}, {
+		"id": 408,
+		"service_name": "NOC",
+		"price": "0.0",
+		"description": "",
+		"service_type": 1,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": 2
+	}, {
+		"id": 409,
+		"service_name": "From Landlord",
+		"price": "0.0",
+		"description": "",
+		"service_type": 1,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": 2
+	}, {
+		"id": 410,
+		"service_name": "Change Of Name After Marriage",
+		"price": "0.0",
+		"description": "",
+		"service_type": 2,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type": 2
+	}, {
+		"id": 411,
+		"service_name": "Declaration of No-criminal Record",
+		"price": "0.0",
+		"description": "",
+		"service_type": 2,
+		"is_delete": 0,
+		"commission": 0.0,
+        "documents":[],
+		"comm_type":
